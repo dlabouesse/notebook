@@ -1,4 +1,4 @@
-# Jupyter Notebook (edited from GitHub)
+# Jupyter Notebook (edited from GitHub twice)
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
